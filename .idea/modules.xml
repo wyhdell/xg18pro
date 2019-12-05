@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bysj/bysj.iml" filepath="$PROJECT_DIR$/bysj/bysj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bysj1839/bysj1839.iml" filepath="$PROJECT_DIR$/bysj1839/bysj1839.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xg18promdl/xg18promdl.iml" filepath="$PROJECT_DIR$/xg18promdl/xg18promdl.iml" />
+    </modules>
+  </component>
+</project>

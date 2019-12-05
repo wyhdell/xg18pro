@@ -1,0 +1,3 @@
+使用JAVA异常处理原因：b方法抛出异常，a方法不受理，会导致整个程序终止。此时用到trycatch.多个异常用多个catch.arithmentcexpecton:被0除异常
+异常是一个对象。
+throws:声明抛出异常。IOExption:输入输出异常

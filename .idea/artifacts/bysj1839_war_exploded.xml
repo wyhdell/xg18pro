@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bysj1839:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/bysj1839_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bysj1839/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bysj1839" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="G:/fastjson-1.2.62.jar" />
+          <element id="file-copy" path="G:/mysql-connector-java-3.1.14-bin.jar" />
+          <element id="file-copy" path="D:/my/mysql-connector-java-8.0.18.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
